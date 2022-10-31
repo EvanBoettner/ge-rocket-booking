@@ -1,0 +1,7 @@
+{
+  "name": "GE Rocket Booking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
